@@ -4,14 +4,14 @@
 **Ruby on Rails Entwickler_in**
 
 ## Start
-Im folgenden findest du die Aufgabe für eine Arbeitsprobe für die Stelle als [Ruby on Rails Entwickler_in](/assets/pdf/ruby.pdf) bei der STUDITEMPS GmbH in Köln.
+Hier findest du die Aufgabe um eine Arbeitsprobe für die Stelle als [Ruby on Rails Entwickler_in](/assets/pdf/ruby.pdf) bei der STUDITEMPS GmbH in Köln zu erstellen.
 
 ## Funktionen
 
-Ein Blog soll mit Ruby on Rails implementiert werden, welcher die folgenden Funktionen beinhaltet:
+Es soll ein Blog mit Ruby on Rails implementiert werden, welcher die folgenden Funktionen beinhaltet:
 
 - Artikel können erstellt werden
-  - ein Artikel besteht aus einem Titel (der Titel hat die Beschränkungen: min. 10 Zeichen und max. 50 Zeichen) und dem eigentlichen Text des Artikels, der unbgrenzt sein darf
+  - Jeder Artikel besteht aus einem Titel (der Titel hat die Beschränkungen: min. 10 Zeichen und max. 50 Zeichen) und dem eigentlichen Text des Artikels, der unbgrenzt sein darf
   - Artikel sind erst nach der Veröffentlichung sichtbar, davor sind sie in einer Entwurfsphase
   - Bilderupload ist möglich *(optional)*
 
@@ -33,7 +33,6 @@ Ein Blog soll mit Ruby on Rails implementiert werden, welcher die folgenden Funk
 
 
 Der Fokus dieser Aufgabe liegt in der Implementierung der Backendfunktionalität. Die Implementierung der Benutzerverwaltung ist nicht notwendig. Die Aufgabe muss auch nicht vollständig umgesetzt werden (insbesondere die optionalen Features nicht).
-Files
 
 ## Was jetzt?
 - Forke das Repo
