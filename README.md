@@ -1,11 +1,10 @@
 # Apply @ STUDITEMPS
 
+ ![Ruby on Rails Entwickler](/assets/icons/ruby.png)
+**Ruby on Rails Entwickler_in**
+
 ## Introduction
-[Stellenanzeige](/assets/pdf/ruby.pdf)
-
-
- ![Ruby on Rails Entwickler](/assets/icons/ruby.png) Ruby on Rails Entwickler_in
-
+Im folgenden findest du die Aufgabe für eine Arbeitsprobe für die Stelle als [Ruby on Rails Entwickler_in](/assets/pdf/ruby.pdf) bei der STUDITEMPS GmbH in Köln.
 
 ## Features
 
@@ -29,3 +28,6 @@
 
 - Im Header der Seite sollte sichtbar sein, wieviele Artikel und Kommentare es auf der Seite gibt
 - RSS-Feed ist vorhanden
+
+## Go for it
+- Fork the repo
