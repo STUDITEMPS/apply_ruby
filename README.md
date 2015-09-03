@@ -1,15 +1,17 @@
-# Apply @ STUDITEMPS
+# Bewerbung @ STUDITEMPS
 
  ![Ruby on Rails Entwickler](/assets/icons/ruby.png)
 **Ruby on Rails Entwickler_in**
 
-## Introduction
+## Start
 Im folgenden findest du die Aufgabe für eine Arbeitsprobe für die Stelle als [Ruby on Rails Entwickler_in](/assets/pdf/ruby.pdf) bei der STUDITEMPS GmbH in Köln.
 
-## Features
+## Funktionen
+
+Ein soll ein Blog mit Ruby on Rails implementiert werden, welcher die folgenden Funktionen beinhaltet:
 
 - Artikel können erstellt werden
-  - Artikel besteht aus einem Titel (min. 30 Zeichen und max. 100 Zeichen) und dem eigentlichen Text
+  - Artikel besteht aus einem Titel (min. 10 Zeichen und max. 50 Zeichen) und dem eigentlichen Text
   - Artikel sind erst nach der Veröffentlichung sichtbar, davor sind sie in einer Entwurfsphase
   - Bilderupload ist möglich *(optional)*
 
@@ -29,5 +31,13 @@ Im folgenden findest du die Aufgabe für eine Arbeitsprobe für die Stelle als [
 - Im Header der Seite sollte sichtbar sein, wieviele Artikel und Kommentare es auf der Seite gibt
 - RSS-Feed ist vorhanden
 
-## Go for it
-- Fork the repo
+
+Der Fokus dieser Aufgabe liegt in der Implementierung der Backendfunktionalität. Die Implementierung der Benutzerverwaltung ist nicht notwendig. Die Aufgabe muss auch nicht vollständig umgesetzt werden (insbesondere die optionalen Features nicht).
+Files
+
+## Was jetzt?
+- Forke das Repo
+
+ **oder**
+
+bewerbe dich bei uns initiativ mit eigenen Arbeitsproben. Schreibe uns dazu einfach eine Mail an carsten.bokemeyer@studitemps.de
